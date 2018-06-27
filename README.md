@@ -8,7 +8,7 @@ LeelaZero + PhoenixGo's weights.
     * V1: https://github.com/yenw/LeelaZero_PhoenixGo/releases/download/v1/PhoenixGo_v1.txt.gz
   * Leela Zero
     * Windows
-      * CPU: https://github.com/yenw/LeelaZero_PhoenixGo/releases/download/v2/leelaz_win_x86_cpu.exe.zip
+      * CPU: https://github.com/yenw/LeelaZero_PhoenixGo/releases/download/v2/leelaz_win_x86_cpu_opencl.exe.zip
       * GPU: https://github.com/yenw/LeelaZero_PhoenixGo/releases/download/v2/leelaz_win_x86_gpu_opencl.exe.zip
 
 * 0.14
