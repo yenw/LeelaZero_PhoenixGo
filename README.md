@@ -1,11 +1,6 @@
 # LeelaZero_PhoenixGo
 [LeelaZero](https://github.com/gcp/leela-zero) + [PhoenixGo](https://github.com/Tencent/PhoenixGo)'s weights.
 
-**This is a convenient project for people who want to use LZ + PhoenixGo's weight to learn Go.**
-
-**Please don't use it to take part in AI competitions!**
-
-
 * 0.15 + lizzie
   * Source Code
     * https://github.com/yenw/LeelaZero_PhoenixGo/releases/download/v2_lizzie/leela-zero-0.15-phoenix-go-lizzie.zip
