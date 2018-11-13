@@ -1,6 +1,12 @@
 # LeelaZero_PhoenixGo
 [LeelaZero](https://github.com/gcp/leela-zero) + [PhoenixGo](https://github.com/Tencent/PhoenixGo)'s weights.
 
+* 0.16
+  * Source Code
+    * https://github.com/yenw/LeelaZero_PhoenixGo/releases/download/v3/leela-zero-0.16-phoenix-go.zip
+  * Weights
+    * V1: https://github.com/yenw/LeelaZero_PhoenixGo/releases/download/v1/PhoenixGo_v1.txt.gz
+
 * 0.15 + lizzie
   * Source Code
     * https://github.com/yenw/LeelaZero_PhoenixGo/releases/download/v2_lizzie/leela-zero-0.15-phoenix-go-lizzie.zip
